@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👩‍💻 Madara Perera
 
-<!--
-**MadaraUI/MadaraUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Frontend Artisan (Developer / Designer / UI Animation)`**
 
-Here are some ideas to get you started:
+I'm a developer and designer with hands on experience in frontend and backend technologies, building my version of the digital world one step at a time. Every project is crafted from the ground up from planning and design to solving real-world problems through code. I’m passionate about creating seamless digital experiences that combine aesthetic design with functional development. Whether it’s building responsive user interfaces, optimizing backend performance, or designing intuitive layouts, I enjoy bringing ideas to life through creativity and clean code. I believe in continuous learning and experimentation staying up to date with modern tools, frameworks, and best practices to deliver efficient, scalable, and visually appealing solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages & Tools
+
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+<img align="left" alt="Framer Motion" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"/>
+<img align="left" alt="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+<img align="left" alt="shadcn/ui" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-192x192.png"/>
+<img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+<br />
+
+#
+
+### 🔭 What I Build
+
+- Frontend projects focused on clean UI, responsive layouts, and smooth user experiences  
+- MERN stack applications combining MongoDB, Express, React, and Node.js for full-stack solutions  
+- Design-related projects that blend creativity with functionality from concept to final visuals  
+- Interactive web experiences using modern frameworks like Next.js, Tailwind CSS, and Framer Motion  
+- Practical tools and mini-projects that simplify everyday tasks and enhance productivity
+
+
+#
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadaraUI&show_icons=true&theme=gruvbox)
+
+#
+
+### 📫 Contact & Links
+
+- Website: https://my-portfolio-azure-nu-86.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/madara-perera-12a7b7225/
+- Email: `madaraperera301@gmail.com`
+
+#
+
+### ⚡ Fun fact
+
+I’m always experimenting with new workflows that let me ship code and videos faster without losing quality.
+
+---
+
+> Made with ❤️ by **YOUR NAME**
+
+[youtube]: https://youtube.com/YOUR_YT_CHANNEL_ID
+
