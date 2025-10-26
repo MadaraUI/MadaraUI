@@ -63,16 +63,19 @@ I'm a developer and designer with hands on experience in frontend and backend te
 - Website: https://my-portfolio-azure-nu-86.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/madara-perera-12a7b7225/
 - Email: `madaraperera301@gmail.com`
-
+  
 #
 
-### ⚡ Fun fact
+<!--
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+I started my coding journey as a curious developer eager to explore both the creative and technical sides of software. I began by learning the fundamentals of web development HTML, CSS, and JavaScript and quickly expanded into frontend frameworks, backend technologies, and design principles. Over time, I gained hands-on experience building **frontend projects, MERN stack applications, and design-focused web solutions**. Each project taught me something new about creating seamless user experiences, writing clean code, and solving real-world problems. Alongside coding, I’ve developed a passion for design, animations, and interactive interfaces using tools like **Tailwind CSS, Framer Motion, and Shadcn UI**. I’ve contributed to team projects like the **JP Cineplex website** and built my **personal portfolio**, learning how to combine creativity with technical precision. Every project I take on is an opportunity to learn, improve, and challenge myself. My journey is ongoing — I’m always experimenting, building, and refining my skills to craft meaningful digital experiences.  
 
-I’m always experimenting with new workflows that let me ship code and videos faster without losing quality.
-
+</details>
+-->
 ---
 
-> Made with ❤️ by **YOUR NAME**
+> Made with ❤️ by **Madara Perera**
 
-[youtube]: https://youtube.com/YOUR_YT_CHANNEL_ID
+
 
