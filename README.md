@@ -39,6 +39,19 @@ I'm a developer and designer with hands on experience in frontend and backend te
 
 #
 
+### 🧩 Featured Projects
+
+- [JP Cineplex Website](https://jpcineplex.com/)  
+  Contributed to developing the JP Cineplex website with my team using **Next.js, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion, and Swiper.js**. The project focuses on interactive UI, smooth animations, and responsive design.
+
+- [Personal Portfolio Website](https://github.com/MadaraUI/my-portfolio)  
+  Developed my personal portfolio website using **React.js, TypeScript, Tailwind CSS, and Framer Motion**. The site showcases animations, project highlights, and a clean user experience.
+
+- [CBC Backend (MERN Stack)](https://github.com/MadaraUI/cbc-backend)  
+  Built the backend for CBC using the **MERN stack (MongoDB, Express.js, React, Node.js)**, implementing CRUD operations, API integration, and database management for a full-stack solution.
+
+#
+
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadaraUI&show_icons=true&theme=gruvbox)
